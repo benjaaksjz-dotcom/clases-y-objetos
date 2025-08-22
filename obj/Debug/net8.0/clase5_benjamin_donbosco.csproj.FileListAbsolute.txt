@@ -1,0 +1,14 @@
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\bin\Debug\net8.0\clase5_benjamin_donbosco.exe
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\bin\Debug\net8.0\clase5_benjamin_donbosco.deps.json
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\bin\Debug\net8.0\clase5_benjamin_donbosco.runtimeconfig.json
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\bin\Debug\net8.0\clase5_benjamin_donbosco.dll
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\bin\Debug\net8.0\clase5_benjamin_donbosco.pdb
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\obj\Debug\net8.0\clase5_benjamin_donbosco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\obj\Debug\net8.0\clase5_benjamin_donbosco.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\obj\Debug\net8.0\clase5_benjamin_donbosco.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\obj\Debug\net8.0\clase5_benjamin_donbosco.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\obj\Debug\net8.0\clase5_benjamin_donbosco.dll
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\obj\Debug\net8.0\refint\clase5_benjamin_donbosco.dll
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\obj\Debug\net8.0\clase5_benjamin_donbosco.pdb
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\obj\Debug\net8.0\clase5_benjamin_donbosco.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\clase5_benjamin_donbosco\obj\Debug\net8.0\ref\clase5_benjamin_donbosco.dll
