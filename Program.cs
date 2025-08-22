@@ -9,9 +9,13 @@ public class Estudiante
     public string? apellido { get; set; }
 
     public void Informacion()
-} 
-
-{
+    {
 Console.WriteLine($"Bienvenido")
 
+    }
+} 
+
+public class Program
+{
+    
 }
